@@ -13,5 +13,5 @@ return [
 
     'tokenAbsent' =>'Unable to get token in your request.',
     'tokenExpired' =>'Sorry, your token has been expired please login again.',
-    'tokenMismatch' =>'User token mismatch',
+    'tokenMismatch' =>'User token mismatch.',
 ];

@@ -42,7 +42,7 @@ class UserController extends Controller
                 $message = __('apiMessages.parametersRequired');
             }
             $this->setMeta($message);
-            return response()->json($this->setResponse(),422);
+            return response()->json($this->setResponse(), 422);
         }
         try {
             $password = Hash::make($request->password);
@@ -54,19 +54,19 @@ class UserController extends Controller
             $token = null;
             $credentials = $request->only('email', 'password');
             if (!$token = JWTAuth::attempt($credentials)) {
-                $this->setMeta( __('apiMessages.tokenMismatch'));
-                return response()->json($this->setResponse(),500);
+                $this->setMeta(__('apiMessages.tokenMismatch'));
+                return response()->json($this->setResponse(), 500);
             }
             $user->token = $token;
             $this->setMeta(__('apiMessages.registrationSuccess'));
             $this->setData("user", $user);
-            return response()->json($this->setResponse(),201);
+            return response()->json($this->setResponse(), 201);
         } catch (JWTException $e) {
             $this->setMeta(__('apiMessages.queryError'));
-            return response()->json($this->setResponse(),500);
+            return response()->json($this->setResponse(), 500);
         } catch (QueryException $e) {
             $this->setMeta(__('apiMessages.queryError'));
-            return response()->json($this->setResponse(),500);
+            return response()->json($this->setResponse(), 500);
         }
     }
 
@@ -92,24 +92,24 @@ class UserController extends Controller
                 $message = __('apiMessages.parametersRequired');
             }
             $this->setMeta($message);
-            return response()->json($this->setResponse(),422);
+            return response()->json($this->setResponse(), 422);
         }
         $token = null;
         $credentials = $request->only('email', 'password');
         try {
             if (!$token = JWTAuth::attempt($credentials)) {
                 $this->setMeta(__('apiMessages.tokenMismatch'));
-                return response()->json($this->setResponse(),500);
+                return response()->json($this->setResponse(), 500);
             }
-            $user = User::where('email',$request->email)->first();
+            $user = User::where('email', $request->email)->first();
             $user->token = $token;
             $this->setMeta(__('apiMessages.loginSuccess'));
             $this->setData("user", $user);
-            return response()->json($this->setResponse(),200);
+            return response()->json($this->setResponse(), 200);
 
         } catch (JWTException $e) {
             $this->setMeta(__('apiMessages.queryError'));
-            return response()->json($this->setResponse(),500);
+            return response()->json($this->setResponse(), 500);
         }
     }
 
@@ -130,23 +130,24 @@ class UserController extends Controller
             } else {
                 $message = __('apiMessages.parametersRequired');
             }
-            $this->setMeta("422", $message);
-            return response()->json($this->setResponse(),422);
+            $this->setMeta($message);
+            return response()->json($this->setResponse(), 422);
         }
         try {
-            if($request->user){
+            $user = $request->user;
+            if ($user) {
                 $getUsers = User::get();
                 $this->setMeta(__('apiMessages.loginSuccess'));
                 $this->setData("user", $user);
                 $this->setData("users", $getUsers);
-                return response()->json($this->setResponse(),200);
+                return response()->json($this->setResponse(), 200);
             } else {
                 $this->setMeta(__('apiMessages.unprocessableRequest'));
-                return response()->json($this->setResponse(),422);
+                return response()->json($this->setResponse(), 422);
             }
         } catch (QueryException $exception) {
             $this->setMeta(__('apiMessages.queryError'));
-            return response()->json($this->setResponse(),500);
+            return response()->json($this->setResponse(), 500);
         }
     }
 }

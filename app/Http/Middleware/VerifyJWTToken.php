@@ -5,6 +5,7 @@ namespace App\Http\Middleware;
 use App\Common\ApiResponse;
 use App\Models\User;
 use Closure;
+use Illuminate\Support\Facades\Log;
 use Tymon\JWTAuth\Exceptions\JWTException;
 use Tymon\JWTAuth\Facades\JWTAuth;
 use Tymon\JWTAuth\Exceptions\TokenExpiredException;
@@ -26,28 +27,27 @@ class VerifyJWTToken
         $token = JWTAuth::getToken();
         if(!$token)
         {
-            $this->setMeta('500', __('apiMessages.tokenAbsent'));
-            return response()->json($this->setResponse());
+            $this->setMeta(__('apiMessages.tokenAbsent'));
+            return response()->json($this->setResponse(),500);
         }
         try {
-            $this->auth($token = false);
+            $user = $this->auth($token);
         } catch (TokenExpiredException $e) {
-            $this->setMeta('500', __('apiMessage.tokenMismatch'));
+            $this->setMeta(__('apiMessage.tokenExpired'));
             return response()->json($this->setResponse(),500);
         } catch (TokenInvalidException $e) {
-            $this->setMeta('500', __('apiMessage.tokenMismatch'));
+            $this->setMeta(__('apiMessage.tokenMismatch'));
             return response()->json($this->setResponse(),500);
         } catch (JWTException $e) {
-            $this->setMeta('500', __('apiMessage.tokenExpired'));
+            $this->setMeta(__('apiMessage.tokenExpired'));
             return response()->json($this->setResponse(), 500);
         }
-        $request->merge(compact('user'));
+        $request->merge(['user' => $user]);
         return $next($request);
     }
     public function auth($token = false)
     {
-        $sub = JWTAuth::getPayload($token)->get('sub');
-            $id = $sub["id"];
+        $id = JWTAuth::getPayload($token)->get('sub');
             $user = User::where('id', $id)
                 ->first();
             if($user){
