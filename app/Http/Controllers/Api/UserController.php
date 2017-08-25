@@ -8,9 +8,10 @@ use Illuminate\Database\QueryException;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Log;
 use Tymon\JWTAuth\Exceptions\JWTException;
+use Tymon\JWTAuth\Facades\JWTAuth;
 use Validator;
-use JWTAuth;
 
 class UserController extends Controller
 {
@@ -94,21 +95,37 @@ class UserController extends Controller
             $this->setMeta($message);
             return response()->json($this->setResponse(), 422);
         }
-        $token = null;
-        $credentials = $request->only('email', 'password');
+
         try {
-            if (!$token = JWTAuth::attempt($credentials)) {
-                $this->setMeta(__('apiMessages.tokenMismatch'));
-                return response()->json($this->setResponse(), 500);
-            }
             $user = User::where('email', $request->email)->first();
-            $user->token = $token;
+            $usertoken = $user->token;
+            Log::info($usertoken);
+            $status = false;
+            if ($usertoken != null) {
+                Log::info('logging because of login');
+                $status = $this->invalidate($usertoken);
+            }
+            if ($status == true || $usertoken == null) {
+                $token = null;
+                $credentials = $request->only('email', 'password');
+                if (!$token = JWTAuth::attempt($credentials)) {
+                    $this->setMeta(__('apiMessages.tokenMismatch'));
+                    return response()->json($this->setResponse(), 500);
+                }
+                Log::info('after getting token' . $token);
+                User::where('email', $request->email)
+                    ->update([
+                        'token' => $token
+                    ]);
+                $user->token = $token;
+            }
             $this->setMeta(__('apiMessages.loginSuccess'));
             $this->setData("user", $user);
             return response()->json($this->setResponse(), 200);
 
         } catch (JWTException $e) {
-            $this->setMeta(__('apiMessages.queryError'));
+            //$this->setMeta(__('apiMessages.queryError'));
+            $this->setMeta($e->getMessage());
             return response()->json($this->setResponse(), 500);
         }
     }
@@ -149,5 +166,43 @@ class UserController extends Controller
             $this->setMeta(__('apiMessages.queryError'));
             return response()->json($this->setResponse(), 500);
         }
+    }
+
+    public function logout(Request $request)
+    {
+        $validator = Validator::make(
+            array(
+                'userId' => $request->userId,
+            ),
+            array(
+                'userId' => 'required'
+            )
+        );
+        if ($validator->fails()) {
+            $errors = $validator->errors();
+            if ($errors->first('userId')) {
+                $message = $errors->first('userId');
+            } else {
+                $message = __('apiMessages.parametersRequired');
+            }
+            $this->setMeta($message);
+            return response()->json($this->setResponse(), 422);
+        }
+        $token = JWTAuth::getToken();
+        Log::info("Logging bcoz of Logout");
+        $this->invalidate($token);
+        $this->setMeta(__('apiMessages.logoutSuccess'));
+        return response()->json($this->setResponse(), 200);
+    }
+
+    public function invalidate($token)
+    {
+        $id = JWTAuth::getPayload($token)->get('sub');
+        User::where('id', $id)
+            ->update([
+                'token' => null
+            ]);
+        JWTAuth::invalidate($token);
+        return true;
     }
 }

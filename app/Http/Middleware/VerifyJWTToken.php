@@ -33,13 +33,13 @@ class VerifyJWTToken
         try {
             $user = $this->auth($token);
         } catch (TokenExpiredException $e) {
-            $this->setMeta(__('apiMessage.tokenExpired'));
+            $this->setMeta(__('apiMessages.tokenExpired'));
             return response()->json($this->setResponse(),500);
         } catch (TokenInvalidException $e) {
-            $this->setMeta(__('apiMessage.tokenMismatch'));
+            $this->setMeta(__('apiMessages.tokenMismatch'));
             return response()->json($this->setResponse(),500);
         } catch (JWTException $e) {
-            $this->setMeta(__('apiMessage.tokenExpired'));
+            $this->setMeta(__('apiMessages.JWTException'));
             return response()->json($this->setResponse(), 500);
         }
         $request->merge(['user' => $user]);
