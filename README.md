@@ -1,2 +1,2 @@
 # jwt-demo
-A demo of jwt integrated with laravel 5.4
+A demo of jwt integrated with laravel 5.5
