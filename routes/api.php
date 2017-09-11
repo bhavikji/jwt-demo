@@ -21,6 +21,7 @@ Route::post('/login', 'Api\UserController@login');
 
 Route::group(['middleware' => 'VerifyJWTToken'], function () {
     Route::post('/users', 'Api\UserController@getAppUsers');
+    Route::post('/profile', 'Api\UserController@profile');
     Route::post('/logout', 'Api\UserController@logout');
 });
 

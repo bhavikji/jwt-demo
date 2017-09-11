@@ -8,6 +8,8 @@ return [
     'loginSuccess' =>'Logged in successfully.',
     'loginFailed' =>'Invalid email or password.',
     'unprocessableRequest' =>'Something went unexpectedly wrong.',
+    'userList' =>'User List.',
+    'profileFetched' =>'Profile Fetched successfully.',
     'logoutSuccess' =>'Logged out successfully.',
 
     /*JWT AUTH CUSTOM MESSAGE*/

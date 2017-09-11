@@ -1,0 +1,164 @@
+[2017-08-25 13:26:06] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2NzM1MCwiZXhwIjoxNjU5MTg3MzUwLCJuYmYiOjE1MDM2NjczNTAsImp0aSI6Ik51dUd0bVA4T3JHcUhSbTgifQ.5d7Bx_Z_9iwvk7oX8YfDZbxqcMOfsMcCAdou8Tp3gCQ  
+[2017-08-25 13:26:06] local.INFO: logging because of login  
+[2017-08-25 13:26:26] local.INFO:   
+[2017-08-25 13:26:26] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2NzU4NiwiZXhwIjoxNjU5MTg3NTg2LCJuYmYiOjE1MDM2Njc1ODYsImp0aSI6Ikc5cEVsU29jNmpXOUo0OE4ifQ.MCfBYfPwmpKY2xa9U7dQSH8ivP2Hqm5XJZXdrzjJFgM  
+[2017-08-25 13:27:14] local.INFO: Logging bcoz of Logout  
+[2017-08-25 13:27:26] local.INFO:   
+[2017-08-25 13:27:26] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2NzY0NiwiZXhwIjoxNjU5MTg3NjQ2LCJuYmYiOjE1MDM2Njc2NDYsImp0aSI6InhCU08zUE5IUEY4THlKNmMifQ.kLWkdHPQoN_6wyQYpiQe0cab90Sh5vsY5-_-3tkm888  
+[2017-08-25 13:29:05] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2NzY0NiwiZXhwIjoxNjU5MTg3NjQ2LCJuYmYiOjE1MDM2Njc2NDYsImp0aSI6InhCU08zUE5IUEY4THlKNmMifQ.kLWkdHPQoN_6wyQYpiQe0cab90Sh5vsY5-_-3tkm888  
+[2017-08-25 13:29:05] local.INFO: logging because of login  
+[2017-08-25 13:29:10] local.INFO:   
+[2017-08-25 13:29:10] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzc1MCwiZXhwIjoxNjU5MTg3NzUwLCJuYmYiOjE1MDM2Njc3NTAsImp0aSI6IndLMk1KSmZXQWQ5Qlo4TmIifQ.mQos_bWW4FeYjJ1xLDKQgcqQBMmCWHn-N_VuhxueRH8  
+[2017-08-25 13:29:49] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzc1MCwiZXhwIjoxNjU5MTg3NzUwLCJuYmYiOjE1MDM2Njc3NTAsImp0aSI6IndLMk1KSmZXQWQ5Qlo4TmIifQ.mQos_bWW4FeYjJ1xLDKQgcqQBMmCWHn-N_VuhxueRH8  
+[2017-08-25 13:29:49] local.INFO: logging because of login  
+[2017-08-25 13:32:36] local.INFO:   
+[2017-08-25 13:32:36] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk1NiwiZXhwIjoxNjU5MTg3OTU2LCJuYmYiOjE1MDM2Njc5NTYsImp0aSI6IkVPVDlSWk41R21aVVFCek4ifQ.XO5LUg1W_D5seQ2Ya_wRzgeT4JmKJjOv6_i2JbXABts  
+[2017-08-25 13:32:37] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk1NiwiZXhwIjoxNjU5MTg3OTU2LCJuYmYiOjE1MDM2Njc5NTYsImp0aSI6IkVPVDlSWk41R21aVVFCek4ifQ.XO5LUg1W_D5seQ2Ya_wRzgeT4JmKJjOv6_i2JbXABts  
+[2017-08-25 13:32:37] local.INFO: logging because of login  
+[2017-08-25 13:32:39] local.INFO:   
+[2017-08-25 13:32:39] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk1OSwiZXhwIjoxNjU5MTg3OTU5LCJuYmYiOjE1MDM2Njc5NTksImp0aSI6ImxVb3pNYmpOcnhSekkwbGYifQ.M2fFe1AEfTEodP6dlgBKEUeamBGG8ukuERGlsqEYlQM  
+[2017-08-25 13:32:40] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk1OSwiZXhwIjoxNjU5MTg3OTU5LCJuYmYiOjE1MDM2Njc5NTksImp0aSI6ImxVb3pNYmpOcnhSekkwbGYifQ.M2fFe1AEfTEodP6dlgBKEUeamBGG8ukuERGlsqEYlQM  
+[2017-08-25 13:32:40] local.INFO: logging because of login  
+[2017-08-25 13:32:41] local.INFO:   
+[2017-08-25 13:32:41] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk2MSwiZXhwIjoxNjU5MTg3OTYxLCJuYmYiOjE1MDM2Njc5NjEsImp0aSI6InBBSzI2YXZPREl6QXZuVE0ifQ.Do2EQP4guW7vNJhELxnsBP0qsAfIWhr8RqaPN8pgXCY  
+[2017-08-25 13:32:41] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk2MSwiZXhwIjoxNjU5MTg3OTYxLCJuYmYiOjE1MDM2Njc5NjEsImp0aSI6InBBSzI2YXZPREl6QXZuVE0ifQ.Do2EQP4guW7vNJhELxnsBP0qsAfIWhr8RqaPN8pgXCY  
+[2017-08-25 13:32:41] local.INFO: logging because of login  
+[2017-08-25 13:32:44] local.INFO:   
+[2017-08-25 13:32:44] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk2NCwiZXhwIjoxNjU5MTg3OTY0LCJuYmYiOjE1MDM2Njc5NjQsImp0aSI6IkFDQWFacjd2UVBDd1JkR2EifQ.1C2vxWGdHZYYLKQaRpFkv3mAVlSbxPYYxkRZhH7l8uw  
+[2017-08-25 13:32:45] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk2NCwiZXhwIjoxNjU5MTg3OTY0LCJuYmYiOjE1MDM2Njc5NjQsImp0aSI6IkFDQWFacjd2UVBDd1JkR2EifQ.1C2vxWGdHZYYLKQaRpFkv3mAVlSbxPYYxkRZhH7l8uw  
+[2017-08-25 13:32:45] local.INFO: logging because of login  
+[2017-08-25 13:32:46] local.INFO:   
+[2017-08-25 13:32:46] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk2NiwiZXhwIjoxNjU5MTg3OTY2LCJuYmYiOjE1MDM2Njc5NjYsImp0aSI6ImU0anlsWTYyWVRMSTNrUnYifQ._CCI3rNWrEo74BdhcQKVLt7ZyGRl7cUNSiveRhkRoDA  
+[2017-08-25 13:32:47] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk2NiwiZXhwIjoxNjU5MTg3OTY2LCJuYmYiOjE1MDM2Njc5NjYsImp0aSI6ImU0anlsWTYyWVRMSTNrUnYifQ._CCI3rNWrEo74BdhcQKVLt7ZyGRl7cUNSiveRhkRoDA  
+[2017-08-25 13:32:47] local.INFO: logging because of login  
+[2017-08-25 13:32:48] local.INFO:   
+[2017-08-25 13:32:49] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk2OSwiZXhwIjoxNjU5MTg3OTY5LCJuYmYiOjE1MDM2Njc5NjksImp0aSI6ImVCUWsxWVM4WHBqSWR5emsifQ.ZdFws312-htuIMBBkaTAgDWSzKPpZq4tBcHXdlskphM  
+[2017-08-25 13:32:49] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk2OSwiZXhwIjoxNjU5MTg3OTY5LCJuYmYiOjE1MDM2Njc5NjksImp0aSI6ImVCUWsxWVM4WHBqSWR5emsifQ.ZdFws312-htuIMBBkaTAgDWSzKPpZq4tBcHXdlskphM  
+[2017-08-25 13:32:49] local.INFO: logging because of login  
+[2017-08-25 13:32:50] local.INFO:   
+[2017-08-25 13:32:50] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk3MCwiZXhwIjoxNjU5MTg3OTcwLCJuYmYiOjE1MDM2Njc5NzAsImp0aSI6InRQamo3YTVXRnp5NEZjajMifQ.a173T87IOMuwbcJFcQmNZf49igyRtGbJLg1UQpJrTp0  
+[2017-08-25 13:32:52] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk3MCwiZXhwIjoxNjU5MTg3OTcwLCJuYmYiOjE1MDM2Njc5NzAsImp0aSI6InRQamo3YTVXRnp5NEZjajMifQ.a173T87IOMuwbcJFcQmNZf49igyRtGbJLg1UQpJrTp0  
+[2017-08-25 13:32:52] local.INFO: logging because of login  
+[2017-08-25 13:32:53] local.INFO:   
+[2017-08-25 13:32:53] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk3MywiZXhwIjoxNjU5MTg3OTczLCJuYmYiOjE1MDM2Njc5NzMsImp0aSI6IlZEUWV2N2dLQ0duaTBXdmQifQ.nW-oO3LYjQoE2a1eIIFQ65TQe9BNyO2rkgPpv6TCKOQ  
+[2017-08-25 13:32:54] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk3MywiZXhwIjoxNjU5MTg3OTczLCJuYmYiOjE1MDM2Njc5NzMsImp0aSI6IlZEUWV2N2dLQ0duaTBXdmQifQ.nW-oO3LYjQoE2a1eIIFQ65TQe9BNyO2rkgPpv6TCKOQ  
+[2017-08-25 13:32:54] local.INFO: logging because of login  
+[2017-08-25 13:32:55] local.INFO:   
+[2017-08-25 13:32:55] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk3NSwiZXhwIjoxNjU5MTg3OTc1LCJuYmYiOjE1MDM2Njc5NzUsImp0aSI6InVtR3I1UnZ4THhlYzU2M3EifQ.2kHCs4jHzUQmdyY8GSHn-19C3lGv6qWnzEWqv7J9fOE  
+[2017-08-25 13:32:56] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk3NSwiZXhwIjoxNjU5MTg3OTc1LCJuYmYiOjE1MDM2Njc5NzUsImp0aSI6InVtR3I1UnZ4THhlYzU2M3EifQ.2kHCs4jHzUQmdyY8GSHn-19C3lGv6qWnzEWqv7J9fOE  
+[2017-08-25 13:32:56] local.INFO: logging because of login  
+[2017-08-25 13:32:57] local.INFO:   
+[2017-08-25 13:32:57] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk3NywiZXhwIjoxNjU5MTg3OTc3LCJuYmYiOjE1MDM2Njc5NzcsImp0aSI6InpiR09scVVLcGxiT1ZaNEYifQ.wJxEpNYNDgKvIfaNxvVsfckUFY4gA336rrByBqtpVco  
+[2017-08-25 13:32:58] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk3NywiZXhwIjoxNjU5MTg3OTc3LCJuYmYiOjE1MDM2Njc5NzcsImp0aSI6InpiR09scVVLcGxiT1ZaNEYifQ.wJxEpNYNDgKvIfaNxvVsfckUFY4gA336rrByBqtpVco  
+[2017-08-25 13:32:58] local.INFO: logging because of login  
+[2017-08-25 13:33:00] local.INFO:   
+[2017-08-25 13:33:00] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk4MCwiZXhwIjoxNjU5MTg3OTgwLCJuYmYiOjE1MDM2Njc5ODAsImp0aSI6InQ3TThwZzJ4NzJvSk5VWWEifQ.rdnmPq44tNg79lLULrPzTQWHGadWSLbxRU2hkJJIgV8  
+[2017-08-25 13:33:02] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk4MCwiZXhwIjoxNjU5MTg3OTgwLCJuYmYiOjE1MDM2Njc5ODAsImp0aSI6InQ3TThwZzJ4NzJvSk5VWWEifQ.rdnmPq44tNg79lLULrPzTQWHGadWSLbxRU2hkJJIgV8  
+[2017-08-25 13:33:02] local.INFO: logging because of login  
+[2017-08-25 13:33:03] local.INFO:   
+[2017-08-25 13:33:03] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk4MywiZXhwIjoxNjU5MTg3OTgzLCJuYmYiOjE1MDM2Njc5ODMsImp0aSI6ImRYMkRmMXFIbmxQSkdRbTYifQ.vZ8oEHJUJdVJD5VESSEj-BOqcnonUdwVFrGYpuBxlXg  
+[2017-08-25 13:33:04] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2Nzk4MywiZXhwIjoxNjU5MTg3OTgzLCJuYmYiOjE1MDM2Njc5ODMsImp0aSI6ImRYMkRmMXFIbmxQSkdRbTYifQ.vZ8oEHJUJdVJD5VESSEj-BOqcnonUdwVFrGYpuBxlXg  
+[2017-08-25 13:33:04] local.INFO: logging because of login  
+[2017-08-25 13:33:27] local.INFO:   
+[2017-08-25 13:33:27] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODAwNywiZXhwIjoxNjU5MTg4MDA3LCJuYmYiOjE1MDM2NjgwMDcsImp0aSI6ImFhdDF6OFRIZVRxVmhmbXMifQ.pjpvQq65F_Cmhts9oimAZHAW03Ezov82gTZCgvMfpnc  
+[2017-08-25 13:34:00] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODAwNywiZXhwIjoxNjU5MTg4MDA3LCJuYmYiOjE1MDM2NjgwMDcsImp0aSI6ImFhdDF6OFRIZVRxVmhmbXMifQ.pjpvQq65F_Cmhts9oimAZHAW03Ezov82gTZCgvMfpnc  
+[2017-08-25 13:34:00] local.INFO: logging because of login  
+[2017-08-25 13:36:01] local.INFO:   
+[2017-08-25 13:36:01] local.ERROR: ErrorException: Undefined variable: status in /opt/lampp/htdocs/jwt-demo/app/Http/Controllers/Api/UserController.php:107
+Stack trace:
+#0 /opt/lampp/htdocs/jwt-demo/app/Http/Controllers/Api/UserController.php(107): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/opt/lampp/htdo...', 107, Array)
+#1 [internal function]: App\Http\Controllers\Api\UserController->login(Object(Illuminate\Http\Request))
+#2 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('login', Array)
+#4 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Route.php(203): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\Api\UserController), 'login')
+#5 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#6 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Routing\Route->run()
+#7 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#8 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#10 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#12 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\ThrottleRequests->handle(Object(Illuminate\Http\Request), Object(Closure), '60', '1')
+#13 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#14 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#15 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(576): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#16 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(535): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#17 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(513): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#18 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#19 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#20 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#21 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#24 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#27 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#30 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#33 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#34 /opt/lampp/htdocs/jwt-demo/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#35 /opt/lampp/htdocs/jwt-demo/public/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#36 {main}  
+[2017-08-25 13:41:10] local.INFO:   
+[2017-08-25 13:41:10] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ3MCwiZXhwIjoxNjU5MTg4NDcwLCJuYmYiOjE1MDM2Njg0NzAsImp0aSI6InMydlFWdW5QYVUxQXVPZkYifQ.qymG-iWiMsHSHIi_W_21I0aPQzkDchMJ2cBMYBu0Hf0  
+[2017-08-25 13:41:18] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ3MCwiZXhwIjoxNjU5MTg4NDcwLCJuYmYiOjE1MDM2Njg0NzAsImp0aSI6InMydlFWdW5QYVUxQXVPZkYifQ.qymG-iWiMsHSHIi_W_21I0aPQzkDchMJ2cBMYBu0Hf0  
+[2017-08-25 13:41:18] local.INFO: logging because of login  
+[2017-08-25 13:41:18] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ3OCwiZXhwIjoxNjU5MTg4NDc4LCJuYmYiOjE1MDM2Njg0NzgsImp0aSI6IlJWT0VkNjlTN3d4OWJQbFUifQ.hqdCDK-bp6d70vcigaSnZ5GDY0iH1s1GleZIEA-AQZg  
+[2017-08-25 13:41:20] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ3OCwiZXhwIjoxNjU5MTg4NDc4LCJuYmYiOjE1MDM2Njg0NzgsImp0aSI6IlJWT0VkNjlTN3d4OWJQbFUifQ.hqdCDK-bp6d70vcigaSnZ5GDY0iH1s1GleZIEA-AQZg  
+[2017-08-25 13:41:20] local.INFO: logging because of login  
+[2017-08-25 13:41:20] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4MCwiZXhwIjoxNjU5MTg4NDgwLCJuYmYiOjE1MDM2Njg0ODAsImp0aSI6IjE2ejl4QTgyM1FKN0NtcDEifQ.cGHflAUD2aJH4ehivLRF2I35T2ceklIEOL7ucTfk_iA  
+[2017-08-25 13:41:21] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4MCwiZXhwIjoxNjU5MTg4NDgwLCJuYmYiOjE1MDM2Njg0ODAsImp0aSI6IjE2ejl4QTgyM1FKN0NtcDEifQ.cGHflAUD2aJH4ehivLRF2I35T2ceklIEOL7ucTfk_iA  
+[2017-08-25 13:41:21] local.INFO: logging because of login  
+[2017-08-25 13:41:21] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4MSwiZXhwIjoxNjU5MTg4NDgxLCJuYmYiOjE1MDM2Njg0ODEsImp0aSI6IkpHdkdFcE5pS01mTHp1Q2gifQ.GIpBWIFESTvGJLFT1hDeFuNiFZJVT1Msgvglmk8szos  
+[2017-08-25 13:41:22] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4MSwiZXhwIjoxNjU5MTg4NDgxLCJuYmYiOjE1MDM2Njg0ODEsImp0aSI6IkpHdkdFcE5pS01mTHp1Q2gifQ.GIpBWIFESTvGJLFT1hDeFuNiFZJVT1Msgvglmk8szos  
+[2017-08-25 13:41:22] local.INFO: logging because of login  
+[2017-08-25 13:41:22] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4MiwiZXhwIjoxNjU5MTg4NDgyLCJuYmYiOjE1MDM2Njg0ODIsImp0aSI6IkVnVlc5OGQ2bnowYzdncWEifQ.-9TBjz0kSMi5-hyWKDy7F6RN6SUqazjzVgcJv6H7no8  
+[2017-08-25 13:41:23] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4MiwiZXhwIjoxNjU5MTg4NDgyLCJuYmYiOjE1MDM2Njg0ODIsImp0aSI6IkVnVlc5OGQ2bnowYzdncWEifQ.-9TBjz0kSMi5-hyWKDy7F6RN6SUqazjzVgcJv6H7no8  
+[2017-08-25 13:41:23] local.INFO: logging because of login  
+[2017-08-25 13:41:23] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4MywiZXhwIjoxNjU5MTg4NDgzLCJuYmYiOjE1MDM2Njg0ODMsImp0aSI6IkJ2cFRnVmpCM05SVzAwb0oifQ.AeVDgPotbzjmm7K-SgNvGQ6paERmk9Q15MQx9_zN_hI  
+[2017-08-25 13:41:24] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4MywiZXhwIjoxNjU5MTg4NDgzLCJuYmYiOjE1MDM2Njg0ODMsImp0aSI6IkJ2cFRnVmpCM05SVzAwb0oifQ.AeVDgPotbzjmm7K-SgNvGQ6paERmk9Q15MQx9_zN_hI  
+[2017-08-25 13:41:24] local.INFO: logging because of login  
+[2017-08-25 13:41:24] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4NCwiZXhwIjoxNjU5MTg4NDg0LCJuYmYiOjE1MDM2Njg0ODQsImp0aSI6IjhvbFhBSmhyRm51VUFMR0kifQ.uJbuoig9ngh_O6EXV0oUZQ0BETq7CUbFryhKQ9qWcKY  
+[2017-08-25 13:41:25] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4NCwiZXhwIjoxNjU5MTg4NDg0LCJuYmYiOjE1MDM2Njg0ODQsImp0aSI6IjhvbFhBSmhyRm51VUFMR0kifQ.uJbuoig9ngh_O6EXV0oUZQ0BETq7CUbFryhKQ9qWcKY  
+[2017-08-25 13:41:25] local.INFO: logging because of login  
+[2017-08-25 13:41:25] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4NSwiZXhwIjoxNjU5MTg4NDg1LCJuYmYiOjE1MDM2Njg0ODUsImp0aSI6ImVXNEZSa3BqOTBnblExdU8ifQ.sz6hq4c7jEdpzjscJHBFLej58x38Gf0WoHdI-3bn8vs  
+[2017-08-25 13:41:26] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4NSwiZXhwIjoxNjU5MTg4NDg1LCJuYmYiOjE1MDM2Njg0ODUsImp0aSI6ImVXNEZSa3BqOTBnblExdU8ifQ.sz6hq4c7jEdpzjscJHBFLej58x38Gf0WoHdI-3bn8vs  
+[2017-08-25 13:41:26] local.INFO: logging because of login  
+[2017-08-25 13:41:26] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4NiwiZXhwIjoxNjU5MTg4NDg2LCJuYmYiOjE1MDM2Njg0ODYsImp0aSI6IktaQXJRM2dSOGZRcG1Rb1EifQ.-R1XskpoY3yDMlKECI9McaEXI68iNypmweh5otRFYyQ  
+[2017-08-25 13:41:27] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4NiwiZXhwIjoxNjU5MTg4NDg2LCJuYmYiOjE1MDM2Njg0ODYsImp0aSI6IktaQXJRM2dSOGZRcG1Rb1EifQ.-R1XskpoY3yDMlKECI9McaEXI68iNypmweh5otRFYyQ  
+[2017-08-25 13:41:27] local.INFO: logging because of login  
+[2017-08-25 13:41:27] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4NywiZXhwIjoxNjU5MTg4NDg3LCJuYmYiOjE1MDM2Njg0ODcsImp0aSI6InFNanNnUTZSR05xNGZaQXgifQ.XP4MEsauDZ4Xr0WHZQ5UgefOGDBBhRHC0sALqrcGwb0  
+[2017-08-25 13:41:28] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4NywiZXhwIjoxNjU5MTg4NDg3LCJuYmYiOjE1MDM2Njg0ODcsImp0aSI6InFNanNnUTZSR05xNGZaQXgifQ.XP4MEsauDZ4Xr0WHZQ5UgefOGDBBhRHC0sALqrcGwb0  
+[2017-08-25 13:41:28] local.INFO: logging because of login  
+[2017-08-25 13:41:28] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4OCwiZXhwIjoxNjU5MTg4NDg4LCJuYmYiOjE1MDM2Njg0ODgsImp0aSI6IlYzazByU0pocmpObFA0S0wifQ.z-Q8JY_uh76_4yu7ZXJ_75y3WJZI2wgDtJW4leINFJA  
+[2017-08-25 13:41:29] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4OCwiZXhwIjoxNjU5MTg4NDg4LCJuYmYiOjE1MDM2Njg0ODgsImp0aSI6IlYzazByU0pocmpObFA0S0wifQ.z-Q8JY_uh76_4yu7ZXJ_75y3WJZI2wgDtJW4leINFJA  
+[2017-08-25 13:41:29] local.INFO: logging because of login  
+[2017-08-25 13:41:29] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4OSwiZXhwIjoxNjU5MTg4NDg5LCJuYmYiOjE1MDM2Njg0ODksImp0aSI6ImNkbUExMDYwMjZVS1BsWmwifQ.LekrHA97ObVdjXNBISxe1fWAu78FzkGzG-9pADtjKio  
+[2017-08-25 13:41:30] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ4OSwiZXhwIjoxNjU5MTg4NDg5LCJuYmYiOjE1MDM2Njg0ODksImp0aSI6ImNkbUExMDYwMjZVS1BsWmwifQ.LekrHA97ObVdjXNBISxe1fWAu78FzkGzG-9pADtjKio  
+[2017-08-25 13:41:30] local.INFO: logging because of login  
+[2017-08-25 13:41:30] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ5MCwiZXhwIjoxNjU5MTg4NDkwLCJuYmYiOjE1MDM2Njg0OTAsImp0aSI6IndoYm9ENmJUNmJ0S3FLVE8ifQ.sMUE_wPnUV4ABYXTNYrX7I7I4tk4ufHOTTqdl2TKtLE  
+[2017-08-25 13:41:31] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ5MCwiZXhwIjoxNjU5MTg4NDkwLCJuYmYiOjE1MDM2Njg0OTAsImp0aSI6IndoYm9ENmJUNmJ0S3FLVE8ifQ.sMUE_wPnUV4ABYXTNYrX7I7I4tk4ufHOTTqdl2TKtLE  
+[2017-08-25 13:41:31] local.INFO: logging because of login  
+[2017-08-25 13:41:31] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ5MSwiZXhwIjoxNjU5MTg4NDkxLCJuYmYiOjE1MDM2Njg0OTEsImp0aSI6InRjcUxoTnZhTmh4ZTRnS1kifQ.jqN3JM-loYX_rCckxqRTSs14irc7nKMQIhhT087Cv38  
+[2017-08-25 13:41:32] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ5MSwiZXhwIjoxNjU5MTg4NDkxLCJuYmYiOjE1MDM2Njg0OTEsImp0aSI6InRjcUxoTnZhTmh4ZTRnS1kifQ.jqN3JM-loYX_rCckxqRTSs14irc7nKMQIhhT087Cv38  
+[2017-08-25 13:41:32] local.INFO: logging because of login  
+[2017-08-25 13:41:32] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ5MiwiZXhwIjoxNjU5MTg4NDkyLCJuYmYiOjE1MDM2Njg0OTIsImp0aSI6IjNNUGpFVFF2dnB4eWxlMzIifQ.bC5vX4igWwrRAsC2c9DAguMUo2ANg2I5lKqSyFHQePE  
+[2017-08-25 13:41:39] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ5MiwiZXhwIjoxNjU5MTg4NDkyLCJuYmYiOjE1MDM2Njg0OTIsImp0aSI6IjNNUGpFVFF2dnB4eWxlMzIifQ.bC5vX4igWwrRAsC2c9DAguMUo2ANg2I5lKqSyFHQePE  
+[2017-08-25 13:41:39] local.INFO: logging because of login  
+[2017-08-25 13:41:39] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ5OSwiZXhwIjoxNjU5MTg4NDk5LCJuYmYiOjE1MDM2Njg0OTksImp0aSI6IkNES0dpYUlTQlZIWnNZaTMifQ.qybczzTCef7lV-YacJLDVHVzj_hkJjyCNYe7hip7fwA  
+[2017-08-25 13:41:52] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODQ5OSwiZXhwIjoxNjU5MTg4NDk5LCJuYmYiOjE1MDM2Njg0OTksImp0aSI6IkNES0dpYUlTQlZIWnNZaTMifQ.qybczzTCef7lV-YacJLDVHVzj_hkJjyCNYe7hip7fwA  
+[2017-08-25 13:41:52] local.INFO: logging because of login  
+[2017-08-25 13:41:52] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODUxMiwiZXhwIjoxNjU5MTg4NTEyLCJuYmYiOjE1MDM2Njg1MTIsImp0aSI6InpJb25Ieng1cDR5b0N4eUoifQ.8bjSixM_7ddKv9EkNVe7A3jwbrVdWvfrcbcayuVsz5U  
+[2017-08-25 13:42:04] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODUxMiwiZXhwIjoxNjU5MTg4NTEyLCJuYmYiOjE1MDM2Njg1MTIsImp0aSI6InpJb25Ieng1cDR5b0N4eUoifQ.8bjSixM_7ddKv9EkNVe7A3jwbrVdWvfrcbcayuVsz5U  
+[2017-08-25 13:42:04] local.INFO: logging because of login  
+[2017-08-25 13:42:04] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODUyNCwiZXhwIjoxNjU5MTg4NTI0LCJuYmYiOjE1MDM2Njg1MjQsImp0aSI6ImU3TVRPWHFiTm80UE1TRUQifQ.x2rS97fElXNg4yYv0FJe9AleWUwJMzs-ovKfYWwEQc8  
+[2017-08-25 13:45:56] local.INFO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODUyNCwiZXhwIjoxNjU5MTg4NTI0LCJuYmYiOjE1MDM2Njg1MjQsImp0aSI6ImU3TVRPWHFiTm80UE1TRUQifQ.x2rS97fElXNg4yYv0FJe9AleWUwJMzs-ovKfYWwEQc8  
+[2017-08-25 13:45:56] local.INFO: logging because of login  
+[2017-08-25 13:45:56] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwMzY2ODc1NiwiZXhwIjoxNjU5MTg4NzU2LCJuYmYiOjE1MDM2Njg3NTYsImp0aSI6ImhNdkpWZU1PN2VKcVJ2TjMifQ.aVMABXmTMfS9AOkcqc2mAjfFwj7qscP8L3maUmsVe2Q  
+[2017-08-25 13:46:18] local.INFO: Logging bcoz of Logout  
+[2017-09-11 09:46:28] local.INFO:   
+[2017-09-11 09:46:29] local.INFO: after getting tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Qvand0LWRlbW8vcHVibGljL2FwaS9sb2dpbiIsImlhdCI6MTUwNTEyMzE4OSwiZXhwIjoxNjYwNjQzMTg5LCJuYmYiOjE1MDUxMjMxODksImp0aSI6InVxME5EUGpSZ0dlZFMyOEIifQ.DAI3krFWhcvFRJtsJKm4yHRew-YbEa5aLsYZRbZJWb4  
